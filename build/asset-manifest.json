@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/voice-app/static/css/main.3c2fef4c.chunk.css",
+    "main.js": "/voice-app/static/js/main.eca6bc16.chunk.js",
+    "main.js.map": "/voice-app/static/js/main.eca6bc16.chunk.js.map",
+    "runtime-main.js": "/voice-app/static/js/runtime-main.d7ef88d1.js",
+    "runtime-main.js.map": "/voice-app/static/js/runtime-main.d7ef88d1.js.map",
+    "static/js/2.0580cd5b.chunk.js": "/voice-app/static/js/2.0580cd5b.chunk.js",
+    "static/js/2.0580cd5b.chunk.js.map": "/voice-app/static/js/2.0580cd5b.chunk.js.map",
+    "index.html": "/voice-app/index.html",
+    "precache-manifest.94dccaa2e94201054d27615d55d4fa54.js": "/voice-app/precache-manifest.94dccaa2e94201054d27615d55d4fa54.js",
+    "service-worker.js": "/voice-app/service-worker.js",
+    "static/css/main.3c2fef4c.chunk.css.map": "/voice-app/static/css/main.3c2fef4c.chunk.css.map",
+    "static/js/2.0580cd5b.chunk.js.LICENSE.txt": "/voice-app/static/js/2.0580cd5b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/voice-app/static/media/logo.44f58810.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ef88d1.js",
+    "static/js/2.0580cd5b.chunk.js",
+    "static/css/main.3c2fef4c.chunk.css",
+    "static/js/main.eca6bc16.chunk.js"
+  ]
+}
